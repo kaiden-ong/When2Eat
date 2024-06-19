@@ -1,5 +1,5 @@
-# Group Project Proposal 
-By: Jackie Chen, Kayla Doan, Quang Nguyen, Kaiden Ong, Ryan Nguyen
+# Contributors include
+Kaiden Ong, [Jackie Chen](https://github.com/JackieKChen), [Kayla Doan](https://github.com/kaylaxdoan), [Quang Nguyen](https://github.com/QwangNguyen), [Ryan Nguyen](https://github.com/ryanngu023)
 
 # Project Description
 
